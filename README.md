@@ -1,6 +1,6 @@
 # rawgapiimplementation
 
-A new Flutter application.
+<img src = "assets/preview_images/main_screen.png" width = "400"> 
 
 ## Getting Started
 
